@@ -1,0 +1,9 @@
+html, body {
+    cursor: none;
+	cursor: url("cursor_pointer.png"), default;
+}
+
+button {
+    cursor: none;
+    cursor: url("cursor_click.png"), default;
+}
